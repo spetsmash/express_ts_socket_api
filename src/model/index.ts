@@ -1,3 +1,3 @@
 export { User } from './user';
 export { Message } from './message';
-export { UserMessage } from './user-message';
+export { ClientMessage } from './client-message';

@@ -1,6 +1,6 @@
 import { Message, User } from './';
 
-export class UserMessage extends Message {
+export class ClientMessage extends Message {
     constructor(from: User, content: string) {
         super(from, content);
     }
